@@ -1,0 +1,6 @@
+[book]
+authors = ["lawtonwillingham"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Introduction to Computer Science for Middle School"
